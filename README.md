@@ -23,7 +23,7 @@ Library Management using MERN is a full-stack web application that allows users 
 Clone the project
 
 ```bash
-  git clone https://github.com/AnuragRoshan/LibraryManagement.git
+  git clone https://github.com/ayush-mistri/Library--Management.git
 ```
 
 move into LibraryManagement folder
@@ -63,7 +63,8 @@ npm start
 
 ## Authors
 
-- [@AnuragRoshan](https://github.com/AnuragRoshan)
+- [@Ayush Mistri](https://github.com/ayush-mistri)
+- [@Krish Mavani](https://github.com/KrishMMavani)
 
 ## Feedback
 
